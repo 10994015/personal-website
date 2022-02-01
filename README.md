@@ -1,4 +1,4 @@
-# vue-personal
+# vue-per
 
 ## Project setup
 ```
