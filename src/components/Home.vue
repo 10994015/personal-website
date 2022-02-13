@@ -25,7 +25,7 @@ export default {
 <style scoped>
 .home{
     display: flex;
-    background: url("~@/assets/images/bg.jpg") no-repeat;
+    background: url("~@/assets/images/banner.jpg") no-repeat;
     background-size:cover;
     background-position: left center;
     height: 100vh;
