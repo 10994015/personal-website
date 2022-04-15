@@ -31,7 +31,7 @@ export default {
             {imgsrc:"https://10994015.github.io/personal/images/colorful.jpg",
              href:"https://www.ice-finland.club/",
              title:"冰芬文教",
-             content:"為冰芬文教補習班撰寫網頁前端",
+             content:"為冰芬文教補習班撰寫網頁全端",
             },
             
         ])
